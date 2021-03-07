@@ -4,6 +4,8 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+[Quarkus vs SpringBoot Benchmarks](https://quarkus.io/assets/images/quarkus_metrics_graphic_bootmem_wide.png)
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
@@ -58,3 +60,8 @@ If you want to learn more about building native executables, please consult http
 REST is easy peasy with this Hello World RESTEasy resource.
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+
+##References
+- [Getting Started](https://quarkus.io/guides/getting-started)
+- [Maven Tooling](https://quarkus.io/guides/maven-tooling)
+- [Databases](https://quarkus.io/guides/datasource)
